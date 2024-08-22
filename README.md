@@ -13,7 +13,7 @@ Photo Semantics Finder is a web application that uses a machine learning model t
 
 ### 1. Clone the Repository
 
-- git clone https://github.com/siddhantjain603/Photo_Semantics_Finder.git
+- git clone https://github.com/siddhantjain603/Photo-Semantics-Finder.git
 - cd Photo-Semantics-Finder
 
 ### 2. Install Dependencies
